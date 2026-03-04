@@ -1,0 +1,6 @@
+-cp src
+extraParams.hxml
+
+-cp tests
+-m Tests
+--interp

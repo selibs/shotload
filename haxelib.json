@@ -1,0 +1,11 @@
+{
+    "name": "shotload",
+    "url": "https://github.com/selibs/shotload",
+    "license": "Apache",
+    "tags": ["hotload", "coding"],
+    "version": "0.0.1",
+    "classPath": "src",
+    "description": "A library for hotloading Haxe code",
+    "contributors": ["smoothie"],
+    "releasenote": "Init"
+}
